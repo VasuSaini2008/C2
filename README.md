@@ -28,9 +28,7 @@ DEV@Deakin is a web platform developed using React. It allows users to explore a
 3. Run `npm run dev`.
 4. Open the local URL shown in the terminal.
 
-## Live Deployment
 
-Add your Netlify-hosted website link here.
 
 ## Deployment Notes
 
